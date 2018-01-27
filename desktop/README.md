@@ -26,7 +26,7 @@ electron-builder --mac #or --windows or --linux
 
 This will package up the app and stick it in the `dist` folder.
 
-## Make a new public releaes
+## Make a new public release
 
 First generate a GitHub access token by going to [https://github.com/settings/tokens/new](https://github.com/settings/tokens/new).
 
